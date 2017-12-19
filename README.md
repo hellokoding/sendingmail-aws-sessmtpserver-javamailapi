@@ -8,7 +8,7 @@ https://hellokoding.com/form-data-binding-and-validation-example-with-java-sprin
 - Maven 3 or later
 - Amazon SES account
 - [SMTP Credentials of your Amazon SES account](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/smtp-credentials.html)
-- [Verified From email and To email](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-addresses-and-domains.html)
+- [Verified From email and To email on SES console](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-addresses-and-domains.html)
 
 ## Stack
 - Java Mail API
